@@ -1,5 +1,6 @@
 # Making_Embedded_Systems
-Notes from the book making embedded systems. \ 
+Notes from the book making embedded systems.
+  
 Started reading on 27.09.2020.\
 Topics in the book:\
 	Creating a system architecture\
